@@ -1,4 +1,3 @@
-layout_spectrum: 0.59846969274804
 typography_spectrum: 0.5813081504311413
 color:
   brandStrength: 0.9825174200814217
@@ -11,4 +10,6 @@ color:
     - '#F5F6D4'
     - '#A7C520'
     - '#493F0B'
+layout_spectrum: 0.59846969274804
 name: innovative paralysis
+description: 'Everyone is Beautiful, I just make it obvious'
